@@ -1,0 +1,16 @@
+.counter-history {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.counter-history ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.counter-history li {
+  padding: 5px 0;
+}

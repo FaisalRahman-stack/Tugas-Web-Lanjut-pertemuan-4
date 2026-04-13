@@ -1,0 +1,23 @@
+.counter-settings {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.counter-settings input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.counter-settings button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2196f3;
+  color: white;
+  cursor: pointer;
+}
